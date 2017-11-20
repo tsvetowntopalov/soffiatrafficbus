@@ -1,7 +1,8 @@
-###SofiaTrafficSchedule
+# SofiaTrafficSchedule
 Фиксира проблема с неподредения и ужасен сайт на София Трафик под формата на
 малка апликация базирана на electronjs
 
+![Screenshot](https://raw.githubusercontent.com/tsvetowntopalov/soffiatrafficbus/master/screenshot.png)
 
 ## Install
 `git clone https://github.com/tsvetowntopalov/soffiatrafficbus.git`
