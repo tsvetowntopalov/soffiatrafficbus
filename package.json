@@ -1,0 +1,30 @@
+{
+  "name": "SofiaTrafficSchedule",
+  "version": "1.0.0",
+  "description": "Comfortable schedule",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Cv3",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "cheerio": "latest",
+    "express": "latest",
+    "request": "latest",
+    "then-request": "^4.1.0"
+  },
+  "devDependencies": {
+    "electron": "~1.7.8",
+    "electron-builder": "^19.45.5"
+  }
+}
