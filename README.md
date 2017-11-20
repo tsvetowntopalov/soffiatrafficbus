@@ -5,9 +5,9 @@
 ![Screenshot](https://raw.githubusercontent.com/tsvetowntopalov/soffiatrafficbus/master/screenshot.png)
 
 ## Install
-`git clone https://github.com/tsvetowntopalov/soffiatrafficbus.git`
-`cd ./soffiatrafficbus`
-`yarn install`
+`git clone https://github.com/tsvetowntopalov/soffiatrafficbus.git` <br>
+`cd ./soffiatrafficbus` <br>
+`yarn install` <br>
 
 ## Run
 `yarn start`
